@@ -1,3 +1,3 @@
-# flutter_application_22
+# Todo List
 
-A new Flutter project.
+A todo list with feature of importing tasks from a file and exporting tasks to a file
